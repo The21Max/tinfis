@@ -1,0 +1,34 @@
+header{
+    width: 100%;
+    height:100vh;
+}
+header nav ul{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 10px;
+}
+ul li {
+    list-style:none;
+    
+}
+nav ul li div h1{
+    width: 380px;
+    height: 35px;
+    border-radius: 15pt;
+}
+nav ul li a input{
+    width: 380px;
+    height: 35px;
+    border-radius: 15pt;
+}
+header img{
+    width: 150px;
+    height: 70px;
+}
+ nav ul li{
+    margin-left: 10px;
+ }
+ header{
+    float: right;
+ }
